@@ -9,6 +9,6 @@ Pentesting toolbelt prepared by DapeSec
 ## Exploits
 
 * ### [MS08-067](https://github.com/DapeSec/Pentest/tree/main/Exploits/ms08_067)
-* ### [EternalRomance - MS17-010]()
+* ### [EternalRomance - MS17-010](https://github.com/DapeSec/Pentest/tree/main/Exploits/MS17-010)
 
 ## Wordlists

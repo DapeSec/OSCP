@@ -2,7 +2,7 @@
 
 ## Wiki
 
-* ### [SMB](https://github.com/DapeSec/Pentest/tree/main/Exploits/ms08_067)
+* ### [SMB](https://github.com/DapeSec/Pentest/wiki/SMB)
 
 ## Exploits
 

@@ -1,5 +1,7 @@
 # DapeSec - Pentest Repo
 
+Pentesting toolbelt prepared by DapeSec
+
 ## Wiki
 
 * ### [SMB](https://github.com/DapeSec/Pentest/wiki/SMB)
